@@ -27,7 +27,7 @@
 
 ## Inspiration
 
-PetsFundMe is a social app built by the community for everyone who supports pets. PetsFundMe is an NFT platform where pet owners and pet lovers come together and help each other to solve their pet's needs from expensive surgeries to food supplies or free services.
+PetsFundMe is a social app built by the community for everyone who supports pets. PetsFundMe is an NFT platform where pet owners and pet lovers come together and help each other to solve their pets needs from expensive surgeries to food supplies or free services.
 
 PetsFundMe is the perfect pet hub for nonprofits, medical & government institutions, influencers, and artists to come together to solve the needs of underserved pets. Come to ask for financial support, as questions, answer questions, and give or receive donations. Come join us to make this planet a better world.
 

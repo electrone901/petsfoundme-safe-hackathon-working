@@ -169,7 +169,7 @@ export default function Home() {
                   <strong>PetsFoundMe</strong> is a social app built by the
                   community for everyone who loves and supports pets.
                   PetsFoundMe is an NFT platform where pet owners and pet lovers
-                  come together and help each other to solve their pet's needs
+                  come together and help each other to solve their pets needs
                   from expensive surgeries to food supplies or free services.
                 </p>{' '}
                 <br />

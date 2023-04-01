@@ -2,7 +2,7 @@ import React from 'react'
 import { Client } from '@xmtp/xmtp-js'
 
 function XmtpChat(props) {
-  const { currentUser,signer } = props
+  const { currentUser, signer } = props
 
   const [message, setMessage] = useState(null)
   const [xmtpconnection, setXmtpconnection] = useState(null)
@@ -46,7 +46,7 @@ function XmtpChat(props) {
     setBuyerInput(inputText)
   }
 
-  const initilizeXMTP = () => {
+  const initilizeXMTP = async () => {
     // Create the client with your wallet. This will connect to the XMTP development network by default
     const xmtp = await Client.create(wallet)
   }
